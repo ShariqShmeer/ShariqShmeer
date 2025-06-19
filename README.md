@@ -7,18 +7,6 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **shariqshmeer01@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/171mRka0VaHPxUC_nkTPD_D-YxNVzt7YJ/view?usp=sharing](https://drive.google.com/file/d/171mRka0VaHPxUC_nkTPD_D-YxNVzt7YJ/view?usp=sharing)
-
-<hr>
-
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/shariqshmeer01" target="blank"><img align="center" src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/46/2022/08/Linkedin-Logo-e1660320077673-300x93.png" alt="shariqshmeer01" height="30"  /></a>
-</p>
-
-<hr>
 
 
 <h1 align="left">Skills:</h1>
