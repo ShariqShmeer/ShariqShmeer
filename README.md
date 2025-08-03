@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter, React**
 
-- 👨‍💻 All of my projects are available at [ShariqShmeer.github.io](ShariqShmeer.github.io)
+- 👨‍💻 All of my projects are available at [ShariqShmeer.github.io](https://github.com/ShariqShmeer?tab=repositories)
 
 - 💬 Ask me about **Flutter**
 
